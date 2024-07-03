@@ -1,10 +1,8 @@
-
-
 import React from 'react';
-import Navigator from './Navigator';
+import StackNavigator from './StackNavigator';
 
 const App = () => {
-  return <Navigator />;
+  return <StackNavigator />;
 };
 
 export default App;
